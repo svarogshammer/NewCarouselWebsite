@@ -1,0 +1,28 @@
+
+
+#carouselExampleCaptions .carousel-item img {
+  object-fit: cover;
+  object-position: center;
+  height: 60vh;
+  overflow: hidden;
+}
+
+h4, h5 {
+  text-shadow: 1px 1px 1px green;
+
+}
+
+.carousel-item p {
+  text-shadow: 1px 1px 1px black;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar-brand {
+  text-shadow: 1px 1px 1px black;;
+}
+
+
+
